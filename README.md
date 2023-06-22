@@ -23,4 +23,7 @@
 ## Project Work
 
 
+<img src="https://github.com/Shekhar2298/-Sql-Mocup-data-Project/assets/131153230/45d64206-cef9-4b79-9fa8-e713afecf1f8" alt="SQL-DATA" width="400" height="400"/> 
 
+
+----
